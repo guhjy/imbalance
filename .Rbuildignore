@@ -1,0 +1,15 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^packrat/
+^\.Rprofile$
+^\.gitignore$
+^data-raw$
+^docs$
+^README\.Rmd$
+^\.travis\.yml$
+^_pkgdown\.yml$
+^revdep$
+^cran-comments.md$
+^NEWS\.md$
+^.*\.tar\.gz$
+^article$
